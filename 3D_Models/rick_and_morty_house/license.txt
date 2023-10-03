@@ -1,0 +1,11 @@
+Model Information:
+* title:	RIck and Morty House
+* source:	https://sketchfab.com/3d-models/rick-and-morty-house-08948655c2ef4b11afbcb6937d8c5e17
+* author:	Medatx (https://sketchfab.com/Medatx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RIck and Morty House" (https://sketchfab.com/3d-models/rick-and-morty-house-08948655c2ef4b11afbcb6937d8c5e17) by Medatx (https://sketchfab.com/Medatx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
