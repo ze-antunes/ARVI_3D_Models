@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flynn's Secret Lab [Tron Legacy]
+* source:	https://sketchfab.com/3d-models/flynns-secret-lab-tron-legacy-0429196769e040bd84e84040daccc40a
+* author:	jvouillon (https://sketchfab.com/jvouillon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flynn's Secret Lab [Tron Legacy]" (https://sketchfab.com/3d-models/flynns-secret-lab-tron-legacy-0429196769e040bd84e84040daccc40a) by jvouillon (https://sketchfab.com/jvouillon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
