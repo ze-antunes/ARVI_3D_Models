@@ -204,7 +204,7 @@
         {
           "id": "01HRRZWMWM5PV3909BZEFF858D",
           "space_object_id": "01H81FWYPJ2C0G6FHVKRQKCJA2",
-          "type": "impulsive",
+          "type": "thrust",
           "propulsion_type": "chemical",
           "state_vector": {
             "x": 124845.29155001466,
@@ -254,7 +254,7 @@
         {
           "id": "01HRRZWMXP2C99GNH9JXREGVA6",
           "space_object_id": "01H81FWYPJ2C0G6FHVKRQKCJA2",
-          "type": "impulsive",
+          "type": "drag",
           "propulsion_type": "chemical",
           "state_vector": {
             "x": 124845.29155001466,
