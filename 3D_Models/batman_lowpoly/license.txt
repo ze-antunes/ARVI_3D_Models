@@ -1,0 +1,11 @@
+Model Information:
+* title:	BATMAN LOWPOLY
+* source:	https://sketchfab.com/3d-models/batman-lowpoly-c05cde9ad28e4e3f8adee389a7d127fb
+* author:	3D Model Dump (https://sketchfab.com/merterzene)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BATMAN LOWPOLY" (https://sketchfab.com/3d-models/batman-lowpoly-c05cde9ad28e4e3f8adee389a7d127fb) by 3D Model Dump (https://sketchfab.com/merterzene) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
